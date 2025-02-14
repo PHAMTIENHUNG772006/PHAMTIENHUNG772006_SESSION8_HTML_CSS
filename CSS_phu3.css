@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Noto Sans",sans-serif;
+    padding: 20px;
+    margin: 50px;
+}
+
+.col{
+    border-right: 1px solid rgb(218, 205, 205);
+    padding: 10px;
+}
+.paragrap{
+    padding: 5px ;
+    padding-bottom: 20px ;
+}
+.text{
+color: rgb(205, 180, 180);
+padding-bottom: 10px;
+}
+button{
+    background-color: transparent;
+    border-radius: 5px;
+    color: orange;
+    border-color: orange;
+    padding: 8px;
+}
+.line{
+    width: 250px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    height: 3px;
+    background-color:#F56A6A ;
+}
+img{
+    padding: 10px;
+}
+table{
+     width: 800px;
+}
+head{
+    margin-bottom: 30px;
+}
+.h2{
+    font-size: 20px;
+}
