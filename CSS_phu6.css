@@ -24,8 +24,9 @@ body{
 }
 .icon-seach{
     color: #62666B;
+    font-size: 20px;
     padding-left: 5px;
-    transform: translateY(3px);
+    transform: translateY(5px);
 }
 .icon{
     transform: translateY(3px);
@@ -33,7 +34,4 @@ body{
 }
 .input:focus{
   outline: transparent;
-}
-.icon {
-   
 }
